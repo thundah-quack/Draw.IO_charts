@@ -126,7 +126,7 @@
         <mxCell id="6NmYGi3LzHl2FKcs8JOB-38" value="EAP-Response" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NmYGi3LzHl2FKcs8JOB-42" value="Radius Access-request" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6NmYGi3LzHl2FKcs8JOB-42" value="Radius Access-request" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="430" y="460" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6NmYGi3LzHl2FKcs8JOB-43" value="Radius Access-Accept/Access-Reject" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
