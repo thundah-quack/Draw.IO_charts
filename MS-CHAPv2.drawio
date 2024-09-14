@@ -49,7 +49,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-11" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EAP-Request/Identity&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-10">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Request/Identity&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-10">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -63,7 +63,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-14" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EAP-Response/Identity&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-13">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Response/Identity&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-13">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -77,7 +77,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-17" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-18" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Radius Access-Reques&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-16">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-18" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Radius Access-Reques&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-16">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -91,7 +91,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-20" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Handshake: Client Hello&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-19">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Handshake: Client Hello&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-19">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -105,7 +105,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-23" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Handshake : Server Hello, Server Certificate, Key&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-22">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Handshake : Server Hello, Server Certificate, Key&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-22">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -119,25 +119,25 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-28" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EAP-Request : PEAP (start)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-27">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Request : PEAP (start)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-27">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PEAP-MSCHAPv2&lt;/h1&gt;&lt;div&gt;&lt;b&gt;MSCHAPv2 inside PEAP.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Requirements : &lt;br&gt;&lt;/i&gt;&lt;ul&gt;&lt;li&gt;Server side certificate must be signed by trusted CA&lt;/li&gt;&lt;li&gt;Common CA must be trusted&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="112" y="-1200" width="623" height="147" as="geometry" />
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-30" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;PEAP-MSCHAPv2&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;MSCHAPv2 inside PEAP.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Requirements : &lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Server side certificate must be signed by trusted CA&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Common CA must be trusted&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Must use valid credentials with MSCHAPv2&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-1270" width="908" height="330" as="geometry" />
         </mxCell>
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#d79b00;glass=1;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-823" width="970" height="663" as="geometry" />
+          <mxGeometry x="120" y="-823" width="1000" height="663" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;EAP-TLS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="546.75" y="-170" width="91" height="32" as="geometry" />
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;EAP-TLS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="542.75" y="-174" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;EAP-TLS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="549.25" y="-840" width="91" height="32" as="geometry" />
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;EAP-TLS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="545.25" y="-844" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Client : Verify is Server certificate is signed by trusted CA***&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="163" y="-620" width="420" height="30" as="geometry" />
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-34" value="&lt;b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;Client : Verify is Server certificate is signed by trusted CA***&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="133" y="-620" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-38" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;shadow=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -148,8 +148,13 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-39" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-40" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EAP-Request Identify&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-38">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-40" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Request Identify&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-38">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-38">
+          <mxGeometry x="-0.0182" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -162,7 +167,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-44" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-45" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EAP-Response Identify (MSCHAPv2)&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-43">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-45" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Response Identify (MSCHAPv2)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-43">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -176,7 +181,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-47" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EAP-Request Challenge (MSCHAPv2)&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-46">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-48" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Request Challenge (MSCHAPv2)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-46">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -190,7 +195,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-51" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-52" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EAP-Response Challenge (MSCHAPv2)&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-50">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-52" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Response Challenge (MSCHAPv2)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-50">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -204,7 +209,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-54" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EAP-Request Access-Accept (MSCHAPv2)&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-53">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-55" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Request Access-Accept (MSCHAPv2)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-53">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -218,7 +223,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-57" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-58" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EAP-Response Ack (MSCHAPv2)&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-56">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-58" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Response Ack (MSCHAPv2)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-56">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -229,7 +234,7 @@
             <mxPoint x="1040" y="-500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-60" value="&lt;font style=&quot;font-size: 15px; background-color: rgb(61, 255, 100);&quot;&gt;TLS Tunnel Established Start&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-59">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-60" value="&lt;font style=&quot;background-color: rgb(61, 255, 100); font-size: 17px;&quot;&gt;TLS Tunnel Established Start&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-59">
           <mxGeometry x="0.0486" y="-5" relative="1" as="geometry">
             <mxPoint x="-28" y="-6" as="offset" />
           </mxGeometry>
@@ -240,7 +245,7 @@
             <mxPoint x="1041" y="-198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-62" value="&lt;font style=&quot;font-size: 15px; background-color: rgb(61, 255, 100);&quot;&gt;TLS Tunnel Established End&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-61">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-62" value="&lt;font style=&quot;background-color: rgb(61, 255, 100); font-size: 17px;&quot;&gt;TLS Tunnel Established End&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-61">
           <mxGeometry x="0.0486" y="-5" relative="1" as="geometry">
             <mxPoint x="-28" y="-6" as="offset" />
           </mxGeometry>
@@ -254,7 +259,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-65" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Radius Access-Accept/Access-Reject&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-64">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-66" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Radius Access-Accept/Access-Reject&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-64">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -268,7 +273,7 @@
         <mxCell id="mL7WgcL4VkOcFJiBh1qk-68" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mL7WgcL4VkOcFJiBh1qk-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mL7WgcL4VkOcFJiBh1qk-69" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EAP-Success/Failure&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-67">
+        <mxCell id="mL7WgcL4VkOcFJiBh1qk-69" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EAP-Success/Failure&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mL7WgcL4VkOcFJiBh1qk-67">
           <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
