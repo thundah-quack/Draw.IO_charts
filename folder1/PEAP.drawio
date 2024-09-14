@@ -135,73 +135,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-81" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;shadow=1;fontSize=13;fontStyle=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=3;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="288" y="-686" as="sourcePoint" />
-            <mxPoint x="1158" y="-686" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-82" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="MvSDx-xuNBDQSRnU1pEQ-81" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;EAP-Response (PEAP)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" parent="MvSDx-xuNBDQSRnU1pEQ-81" vertex="1" connectable="0">
-          <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-85" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;shadow=1;fontSize=13;fontStyle=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=3;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="288" y="-634" as="sourcePoint" />
-            <mxPoint x="1158" y="-634" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-86" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="MvSDx-xuNBDQSRnU1pEQ-85" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-87" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;TLS Client Key, Change Cipher, Handshake,TLS-Finished&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" parent="MvSDx-xuNBDQSRnU1pEQ-85" vertex="1" connectable="0">
-          <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-88" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;shadow=1;fontSize=13;fontStyle=1;fillColor=#76608a;strokeColor=#432D57;strokeWidth=3;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1155" y="-607" as="sourcePoint" />
-            <mxPoint x="285" y="-607" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-89" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="MvSDx-xuNBDQSRnU1pEQ-88" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-90" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Handshake : TLS-Server Change Cipher, Hanshake, TLS-Finished&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" parent="MvSDx-xuNBDQSRnU1pEQ-88" vertex="1" connectable="0">
-          <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-92" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;shadow=1;fontSize=13;fontStyle=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=3;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="286" y="-549" as="sourcePoint" />
-            <mxPoint x="1149" y="-549" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-93" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="MvSDx-xuNBDQSRnU1pEQ-92" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MvSDx-xuNBDQSRnU1pEQ-94" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;EAP-Response (PEAP)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" parent="MvSDx-xuNBDQSRnU1pEQ-92" vertex="1" connectable="0">
-          <mxGeometry x="-0.0071" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MvSDx-xuNBDQSRnU1pEQ-96" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PEAP (Protected EAP)&lt;/h1&gt;&lt;div&gt;&lt;b&gt;EAP&lt;/b&gt; request inside &lt;b&gt;EAP-TLS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Requirements : &lt;br&gt;&lt;/i&gt;&lt;ul&gt;&lt;li&gt;Server side certificate must be signed by trusted CA&lt;/li&gt;&lt;li&gt;Common CA must be trusted&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="246" y="-1190" width="623" height="147" as="geometry" />
         </mxCell>
         <mxCell id="HFdkv9mMeR3owh5Ajkao-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#d79b00;glass=1;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="251" y="-827" width="942" height="353" as="geometry" />
+          <mxGeometry x="265" y="-833" width="942" height="353" as="geometry" />
         </mxCell>
         <mxCell id="HFdkv9mMeR3owh5Ajkao-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;EAP-TLS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="666.25" y="-490" width="91" height="32" as="geometry" />
         </mxCell>
         <mxCell id="HFdkv9mMeR3owh5Ajkao-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;EAP-TLS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="666.25" y="-843" width="91" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="HFdkv9mMeR3owh5Ajkao-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Verify is Server certificate is signed by trusted CA***&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="317" y="-676" width="366" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
